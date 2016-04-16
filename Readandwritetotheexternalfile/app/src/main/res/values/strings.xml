@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Read and write to the external file</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Card View</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="name">
+        <item>"sahel</item>
+        <item>"anas"</item>
+        <item>"dawood"</item>
+        <item>"Abdul khalique"</item>
+        <item>"usman"</item>
+        <item>"hamza"</item>
+    </string-array>
+
+    <string-array name="email">
+        <item>"ansarisahel@gmail.com"</item>
+        <item>""ansarianas@gmail.com""</item>
+        <item>""ansaridawood@gmail.com""</item>
+        <item>""ansariabdul@gmail.com" khalique"</item>
+        <item>""ansariusman@gmail.com""</item>
+        <item>""ansarihamza@gmail.com""</item>
+    </string-array>
+
+    <string-array name="mobileNumber">
+        <item>"95625614574"</item>
+        <item>"543468546"</item>
+        <item>"486736543543"</item>
+        <item>"1454534453"</item>
+        <item>"48483413541"</item>
+        <item>"4789453466"</item>
+    </string-array>
+    <string name="title_activity_contact__detail">Contact_Detail</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+       <item name="android:colorControlHighlight">@color/colorHighlight</item>
+        <item name="android:colorPrimary">@color/toolbar_color</item>
+        <item name="android:colorAccent">@android:color/white</item>
+    </style>
+
+    <style name="ToolBarStyle" parent="Widget.AppCompat.Toolbar">
+        <item name="actionMenuTextColor">#ff63BBF7</item>
+    </style>
+
+</resources>

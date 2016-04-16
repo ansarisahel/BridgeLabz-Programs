@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Shopping Pad App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login_">Login</string>
+    <string name="home_screen_text">This is a splash screen</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+    <string-array name="tab_title">
+        <item>Content</item>
+        <item>View</item>
+        <item>Contacts</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_add__content">Add_Content</string>
+    <string name="title_activity_view_content">ViewContent</string>
+    <string name="title_activity_sign_up">Sign_up</string>
+
+    <string name="card_view1_text">Shopping Pad App will send a one time SMS message to varify your phone number. Carrier SMS charges may apply.</string>
+
+    <string name="card_view2_text">Please conform your country code and enter your phone number.</string>
+
+    <string-array name="country_name">
+        <item>Afghanistan</item>
+        <item>Algeria</item>
+        <item>Argentina</item>
+        <item>Australia</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Belgium</item>
+        <item>Bhutan</item>
+        <item>Brazil</item>
+        <item>Brunei Darussalam</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Japan</item>
+        <item>Kuwait</item>
+        <item>Qatar</item>
+        <item>Singapore</item>
+    </string-array>
+    <string name="title_activity_otp">OTP</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/search"
+        android:title="@string/search"
+        android:showAsAction="always"/>
+    <item
+        android:id="@+id/save"
+        android:icon="@drawable/save"
+        android:title="@string/save"
+        android:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/play"
+        android:title="@string/play_video"
+        android:icon="@drawable/play"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/record"
+        android:title="@string/record"
+        android:icon="@drawable/recording"
+        android:showAsAction="never"/>
+</menu>

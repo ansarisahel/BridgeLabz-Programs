@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/dot_net1"
+        android:scaleType="fitXY"
+        android:id="@+id/imageView1"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Country"
+        android:id="@+id/txtConuntryName"
+        android:gravity="center"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="15dp"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:layout_toRightOf="@+id/imageView1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Capital"
+        android:id="@+id/txtConuntryCapital"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:layout_marginTop="15dp"
+        android:layout_alignParentEnd="true"
+        android:layout_toRightOf="@+id/imageView1"
+        android:layout_marginLeft="160dp"/>
+
+</RelativeLayout>

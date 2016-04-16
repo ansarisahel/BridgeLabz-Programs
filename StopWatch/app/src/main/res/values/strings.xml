@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stop Watch</string>
+    <string name="action_settings">Settings</string>
+    <string name="startBtnText">Start</string>
+    <string name="stopBtnText">Stop</string>
+    <string name="resetBtnText">Reset</string>
+</resources>

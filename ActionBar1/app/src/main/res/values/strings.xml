@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ActionBar1</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="save">Save</string>
+    <string name="play_video">Play Video</string>
+    <string name="record">Record</string>
+    <string name="textView1">This is second activity</string>
+    <string name="Button1">Go to second activity</string>
+    <string name="textView2">Search For</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="action_settings">Settings</string>
+
+        <string-array name = "programming">
+            <item>C</item>
+            <item>C++</item>
+            <item>Java</item>
+            <item>.Net</item>
+        </string-array>
+</resources>

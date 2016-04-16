@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Async Task</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="strings">
+        <item>abc</item>
+        <item>dsad</item>
+        <item>abdasdc</item>
+        <item>abfsdfc</item>
+        <item>dasdabc</item>
+        <item>adasdbc</item>
+        <item>avgfxcvbc</item>
+        <item>asdcsadbc</item>
+        <item>abzcxzcc</item>
+        <item>abxvcxc</item>
+        <item>aczxcbc</item>
+        <item>abcczx</item>
+        <item>abdwedhc</item>
+        <item>abczxcc</item>
+        <item>ahfghbc</item>
+        <item>abkjkc</item>
+        <item>atebc</item>
+        <item>abcqrfd</item>
+        <item>abjlc</item>
+        <item>abhfgc</item>
+        <item>abrwc</item>
+        <item>abcvxz</item>
+        <item>aqwerbc</item>
+        <item>abpoiuc</item>
+        <item>abcgsf</item>
+        <item>aqwewqbc</item>
+        <item>abytdc</item>
+        <item>abcdghbdc</item>
+        <item>abcda</item>
+        <item>abcq1r</item>
+    </string-array>
+</resources>

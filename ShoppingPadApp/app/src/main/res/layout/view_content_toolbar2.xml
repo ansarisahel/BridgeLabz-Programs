@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/actionBarSize"
+    android:background="@color/toolbar_color"
+    android:id="@+id/viewContentToolbar1">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageButton
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/fast_reverse"
+            android:scaleType="fitXY"
+            android:id="@+id/imageButton1"
+            android:background="@color/toolbar_color"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            />
+
+            <ImageButton
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="15dp"
+            android:src="@drawable/reverse" android:scaleType="fitXY"
+            android:background="@color/toolbar_color"
+            android:id="@+id/imageButton2"
+            android:layout_toEndOf="@+id/imageButton1" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Page 1 of 10"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:id="@+id/textView1"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+
+        <ImageButton
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/forward"
+            android:id="@+id/imageButton3"
+            android:scaleType="fitXY"
+            android:layout_alignParentTop="true"
+            android:background="@color/toolbar_color"
+            android:layout_toStartOf="@+id/imageButton4"
+            android:layout_marginRight="10dp"/>
+
+        <ImageButton
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/fast_forward"
+            android:background="@color/toolbar_color"
+            android:scaleType="fitXY"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="10dp"
+            android:id="@+id/imageButton4" />
+    </RelativeLayout>
+
+</android.support.v7.widget.Toolbar>

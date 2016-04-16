@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ServiceDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView1Text">Exaple of services</string>
+    <string name="textView2Text">Tutorila Points</string>
+    <string name="button1Text">Start Services</string>
+    <string name="button2Text">Stop Service</string>
+</resources>

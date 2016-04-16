@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.bridgelabz.materialdesign.MainActivity" >
+
+    <item android:id="@+id/menu_search"
+        android:title="search"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/search"/>
+
+    <item android:id="@+id/menu_play"
+        android:title="play"
+        android:orderInCategory="200"
+        android:icon="@drawable/play"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/menu_save"
+        android:title="save"
+        android:orderInCategory="300"
+        android:icon="@drawable/save"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/menu_recording"
+        android:title="recording"
+        android:orderInCategory="400"
+        android:icon="@drawable/recording"
+        app:showAsAction="never" />
+</menu>

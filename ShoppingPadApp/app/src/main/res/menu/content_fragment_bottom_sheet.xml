@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/content_info"
+    android:title="Content Info"
+    android:icon="@drawable/plus2"/>
+
+    <item android:id="@+id/content_view"
+        android:title="Content View"
+        android:icon="@drawable/plus2"/>
+
+    <item android:id="@+id/email_content"
+        android:title="Email Content"
+        android:icon="@drawable/plus2"/>
+
+    <item android:id="@+id/archieve_content"
+        android:title="Archieve Content"
+        android:icon="@drawable/plus2"/>
+
+    <item android:id="@+id/delete_content"
+        android:title="Delete Content"
+        android:icon="@drawable/plus2" />
+</menu>

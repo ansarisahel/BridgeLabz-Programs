@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DownloadImageFromTheInternet</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="image_string">
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+        <item>Image 4</item>
+    </string-array>
+
+    <string-array name="nature_Images">
+        <item>https://en.wikipedia.org/wiki/Nature#/media/File:Hopetoun_falls.jpg</item>
+        <item>https://en.wikipedia.org/wiki/Nature#/media/File:Bachalpseeflowers.jpg</item>
+        <item>https://en.wikipedia.org/wiki/Nature#/media/File:Galunggung.jpg</item>
+        <item>https://en.wikipedia.org/wiki/Nature#/media/File:The_Earth_seen_from_Apollo_17.jpg</item>
+        </string-array>
+</resources>
